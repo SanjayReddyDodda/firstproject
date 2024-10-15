@@ -1,2 +1,0 @@
-username= san02
-password= rdy03
